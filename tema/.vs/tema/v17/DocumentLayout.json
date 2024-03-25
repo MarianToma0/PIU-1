@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD2352-5102-4E83-9024-02609093C5AD}|tema\\tema.csproj|c:\\users\\pocu4\\source\\repos\\mariantoma0\\piu-1\\tema\\tema\\masina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD2352-5102-4E83-9024-02609093C5AD}|tema\\tema.csproj|solutionrelative:tema\\masina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD2352-5102-4E83-9024-02609093C5AD}|tema\\tema.csproj|C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\managermasini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD2352-5102-4E83-9024-02609093C5AD}|tema\\tema.csproj|solutionrelative:tema\\managermasini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD2352-5102-4E83-9024-02609093C5AD}|tema\\tema.csproj|C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD2352-5102-4E83-9024-02609093C5AD}|tema\\tema.csproj|solutionrelative:tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\Program.cs",
+              "RelativeDocumentMoniker": "tema\\Program.cs",
+              "ToolTip": "C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\Program.cs",
+              "RelativeToolTip": "tema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:19:02.585Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Masina.cs",
+              "DocumentMoniker": "C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\Masina.cs",
+              "RelativeDocumentMoniker": "tema\\Masina.cs",
+              "ToolTip": "C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\Masina.cs",
+              "RelativeToolTip": "tema\\Masina.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:22:38.71Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Managermasini.cs",
+              "DocumentMoniker": "C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\Managermasini.cs",
+              "RelativeDocumentMoniker": "tema\\Managermasini.cs",
+              "ToolTip": "C:\\Users\\POCU4\\source\\repos\\MarianToma0\\PIU-1\\tema\\tema\\Managermasini.cs",
+              "RelativeToolTip": "tema\\Managermasini.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:21:02.957Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

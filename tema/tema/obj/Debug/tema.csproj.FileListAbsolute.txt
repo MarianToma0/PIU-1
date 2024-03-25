@@ -1,0 +1,7 @@
+C:\Users\POCU4\source\repos\MarianToma0\PIU-1\tema\tema\bin\Debug\tema.exe.config
+C:\Users\POCU4\source\repos\MarianToma0\PIU-1\tema\tema\bin\Debug\tema.exe
+C:\Users\POCU4\source\repos\MarianToma0\PIU-1\tema\tema\bin\Debug\tema.pdb
+C:\Users\POCU4\source\repos\MarianToma0\PIU-1\tema\tema\obj\Debug\tema.csproj.AssemblyReference.cache
+C:\Users\POCU4\source\repos\MarianToma0\PIU-1\tema\tema\obj\Debug\tema.csproj.CoreCompileInputs.cache
+C:\Users\POCU4\source\repos\MarianToma0\PIU-1\tema\tema\obj\Debug\tema.exe
+C:\Users\POCU4\source\repos\MarianToma0\PIU-1\tema\tema\obj\Debug\tema.pdb
